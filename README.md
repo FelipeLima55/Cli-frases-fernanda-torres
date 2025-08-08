@@ -9,5 +9,3 @@ Iabelle de Oliveira Moura
 ## Funcionalidades
 - Buscar uma frase no endpoint (https://fernanda-torres.isabelleoliveiradesign.workers.dev)
 - Exibir a frase tratada com console.log
-
-## Inicialização 
