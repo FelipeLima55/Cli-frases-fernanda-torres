@@ -1,10 +1,10 @@
 # 🎭 CLI Frases Fernanda Torres
 
-Uma ferramenta simples de linha de comando que traz inspiração através das frases icônicas da atriz brasileira Fernanda Torres.
+Projeto do Programa Desenvolve, uma ferramenta simples de linha de comando que traz inspiração através das frases icônicas da atriz brasileira Fernanda Torres.
 
 ## ✨ Sobre o Projeto
 
-Este CLI conecta-se a uma API dedicada para buscar e exibir frases marcantes de Fernanda Torres - uma das maiores atrizes, escritoras e personalidades brasileiras da atualidade.
+Este CLI conecta-se a uma API dedicada para buscar e exibir frases marcantes de Fernanda Torres.
 
 ## 🚀 Funcionalidades
 
